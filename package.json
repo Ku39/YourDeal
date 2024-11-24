@@ -20,6 +20,8 @@
         "@types/axios": "^0.14.4",
         "@types/nodemon": "^1.19.6",
         "axios": "^1.7.7",
+        "dotenv": "^16.4.5",
+        "grammy": "^1.32.0",
         "nodemon": "^3.1.7"
     }
 }
